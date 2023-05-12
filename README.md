@@ -1,1 +1,0 @@
-# Stack_Heap_Diagram
